@@ -1,0 +1,70 @@
+.LIST { background-color: cyan; color: Red; border: 2px groove blue; margin-top: 2px; margin-bottom: 2px; margin-left: 2px; margin-right: 2px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; }
+.MAINMUMBAI { background-color: blue; color: #ffffff; border-width: 0px; border-color: #e0ffff; border-style: solid; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; font-weight: bold; padding-top: 10px; }
+.MENU { background-color: #fffff; color: #0000ff; border-width: 0px; border-color: #cfecec; border-style: solid; font-weight: bold; padding-top:10px; padding-bottom: 15px; margin-top: 0px; margin-bottom: 0px; }
+.MILANNIGHT { background-color: #ff00ff; color: #ffffff; border-width: 0px; border-color: #e0ffff; border-style: solid; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; font-weight: bold; padding-top: 10px; }
+.RAJDHANI { background-color: gold; color: #ffffff; border-width: 0px; border-color: #e0ffff; border-style: solid; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; font-weight: bold; padding-top: 10px; }
+.RANJAN { background-color: #e6e6e6; color: black; border: 4px groove brown; margin-top: 4px; margin-bottom: 4px; margin-left: 2px; margin-right: 2px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; }
+.RECORDS { background-color: White; color: black; border: 4px groove brown; margin-top: 4px; margin-bottom: 4px; margin-left: 2px; margin-right: 2px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; }
+.RED { background-color: red; color: black; border: 4px groove black; margin-top: 2px; margin-bottom: 2px; margin-left: 2px; margin-right: 2px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; }
+.Sattamatka2020 { background-color: #306eff; color: #ffffff; border-width: 1px; border-color: #ffffff; border-style: solid; font-weight: bold; }
+.WHITE { background-color: white; color: #ffffff; border-width: 1px; border-color: #ffffff; border-style: solid; font-weight: bold; }
+.White { background-color: White ; color: Black ; }
+.ttt{ background-color: #000000; color: red; border-width: 4px; border-color: yellow; border-style: double; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.CHARTS { background-color: #ffffff; color: black; border-top: 3px ridge#00ff00; border-left: 3px ridge #00ff00; border-right: 3px ridge #00ff00; border-bottom: 3px ridge #00ff00; margin-top: 7px; margin-bottom: 7px; padding-top: 7px; padding-bottom: 7px; font-size: large; }
+.quote { background-color: #66FFFF ; color: red ; border-width: 1px; border-color: #66FFFF; margin-top: 1px; margin-bottom: 1px; margin-left: 1px; margin-right: 1px; padding-top: 1px; padding-bottom: 1px; padding-left: 1px; padding-right: 1px; font-weight: bold; font-style: italic; }
+.r1{background:#E6E6E6 repeat scroll 0 0;border-radius:0px;color:red;display:inline-block;cursor:pointer;font-family:Arial;font-weight:bold;margin-top:10px;padding:3px 20px;text-decoration:none;text-shadow:0 1px 0 #9b14b3;}
+.ALERT {
+background-color:#c00;
+color:#ff0;
+font-weight:700;
+font-size:large;
+border-color:#033;
+border-style:groove;
+border-width:3px;
+margin:3px;
+padding:3px;
+}
+
+.fixw {
+background-color:#cfc;
+color:#036;
+font-weight:700;
+font-size:large;
+border-color:#09f;
+border-style:groove;
+border-width:2px;
+margin:1px;
+padding:1px;
+}
+
+.UPER {
+background-color:#e6e6e6;
+color:#000;
+font-weight:700;
+font-size:large;
+border-color:#b8005c;
+border-style:outset;
+border-width:5px;
+margin:1px;
+padding:1px;
+}
+
+.panel{
+	background-color: #ffffff; color: black; border:3px ridge red; margin-top: 7px; margin-bottom: 7px; padding-top: 7px; padding-bottom: 7px; font-size:18px; font-style: italic; font-family:"Times New Roman", Times, serif;   
+	}
+.Golden {
+background-color:#e6e6e6;
+color:#000;
+/* background-image:url(img/544/544536_2b3e8d9a2b.png); */
+border-top-width:1px;
+border-top-color:#d3d3d3;
+border-top-style:solid;
+padding-top:1px;
+padding-bottom:1px;
+border-left-width:1px;
+border-left-color:#dbdbdb;
+border-left-style:ridge;
+padding-left:1px;
+font-weight:700;
+font-size:normal;
+
